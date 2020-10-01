@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FootballWithGuns</string>
+    <string name="refreshButton">Refresh</string>
+    <string name="searchButton">Search</string>
+
+    <string-array name="categories">
+        <item>Everything</item>
+        <item>Weapons</item>
+        <item>Units</item>
+    </string-array>
+</resources>
